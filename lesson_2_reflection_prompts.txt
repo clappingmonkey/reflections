@@ -15,6 +15,8 @@ I can use it to be sure that a really significant change is made. And after I ch
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches would be helpful when is needed someting to be moded and hade its way of developenment differentf from the original and beside the original that is intact. 
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
