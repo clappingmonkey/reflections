@@ -19,6 +19,8 @@ Branches would be helpful when is needed someting to be moded and hade its way o
 
 How do the diagrams help you visualize the branch structure?
 
+The diagrams helped a lot to visualize the entire structure of the branches. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
