@@ -19,3 +19,7 @@ The benefit is that you can work and make changes locally without internet conne
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I suppose using multiple mails or a IM software with a option for file transfer. Using Git is far more efficient and easier to use instead mail or IM soft. Almost everything will be easier and got done more quickly and efficient.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I made several minor changes and want to be available other to see and check it that these changes are ok with him. Work with separate branches gives you flexibility and several options to operates. With working directly in master is more easy and plain to use but don't give You the amount of options of branches and the chance to co-op.
